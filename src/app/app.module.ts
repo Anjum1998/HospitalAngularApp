@@ -21,7 +21,7 @@ const myRoute:Routes=[
   {
     path:"delete",
     component:PatientDeletehComponent
-  }
+  },
   {
     path:"view",
     component:PatientViewComponent
